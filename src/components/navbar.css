@@ -1,0 +1,14 @@
+.navbar{
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+}
+
+.navbar-text{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 56px;
+    letter-spacing: 3px;
+    padding-left: 760px;
+    padding-top: 20px;
+}

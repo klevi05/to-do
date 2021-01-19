@@ -1,0 +1,53 @@
+.box{
+    width: 400px;
+    height: 60px;
+    border-radius: 3px;
+    margin-left: 690px;
+    margin-top: 170px;
+}
+.inside-box{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.text{
+    font-size: 24px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.text-click{
+    font-size: 24px;
+    width: 300px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.buton {
+    padding-left: 6px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    padding-right: 6px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    background-color: black;
+    border: none;
+    border: 2px solid black;
+    border-radius: 3px;
+    color: white;
+}
+.buton:hover {
+    padding-left: 6px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    padding-right: 6px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    background-color: red;
+    border: none;
+    border: 2px solid black;
+    border-radius: 3px;
+    color: white;
+}
